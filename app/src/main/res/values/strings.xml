@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pig Latin Names</string>
+    <string name="header">Convert Your Name to Pig Latin</string>
+    <string name="action_settings">Settings</string>
+    <string name="fName_hint">First Name</string>
+    <string name="lName_hint">Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_output">Go Back to Enter a New Name</string>
+    <string name="outcome">Your name in Pig Latin is: </string>
+    <string name="space"> </string>
+    <string name="exclamation">!</string>
+</resources>
